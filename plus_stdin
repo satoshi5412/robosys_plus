@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+# SPDX-fileCopyrightText: 2022 Satoshi Watanabe
+
 import sys
 
 ans = 0
